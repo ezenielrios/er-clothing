@@ -19,7 +19,7 @@ import {
     query,
     getDocs,
     querySnapshot
- } from 'firebase/firestore'
+ } from 'firebase/firestore';
 
 const firebaseConfig = {
     apiKey: "AIzaSyAmGB_EG0h2DasEeiq7zT1nW66-3Xs3SHA",
